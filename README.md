@@ -1,7 +1,7 @@
 # Investigate-TMDb-Movie-Database
 Every year, thousands of movies get released but only a percentage of those become successful. The aim of this work is to analyze determining factors affecting movie profitability and commercial success. 
 ## Project overview
-The main objective of this project is to analyze a dataset containing information about 10,000 movies from 1960 to 2015, collected from The Movie Database (TMDb) and including all films details such as the production cost, the revenue generated, rating information, actors and directors, etc. I will use the Python libraries NumPy, pandas, and Matplotlib to make your analysis easier. This work also tries to find answers to the questions below:
+The main objective of this project is to analyze a dataset containing information about 10,000 movies from 1960 to 2015, collected from The Movie Database (TMDb) and including all films details such as the production cost, the revenue generated, rating information, actors and directors, etc. This work also tries to find answers to the questions below:
 ### Research questions
 
 1- What kinds of properties are associated with  most and less successful movies?
@@ -35,6 +35,9 @@ The main objective of this project is to analyze a dataset containing informatio
 <li>What is the evolution of the genres according to popularity from year to year? </li>
 </ul>
 4- What are top 10 Casts, Directors and production companies ?
+
+## Project Objectives
+This is a project that I was working on for Udacity Data Analyst Nanodegree. In this project, i'll go through the data analysis process and see how everything fits together.  I will use the Python libraries NumPy, pandas, and Matplotlib to make my analysis easier.
 
 ## Loading project requirements 
 You will need an installation of Python, plus the following libraries:
