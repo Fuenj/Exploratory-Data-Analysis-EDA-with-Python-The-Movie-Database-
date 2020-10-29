@@ -2,7 +2,7 @@
 Every year, thousands of movies get released but only a percentage of those become successful. The aim of this work is to analyze determining factors affecting movie profitability and commercial success. 
 ## Project overview
 The main objective of this project is to analyze a dataset containing information about 10,000 movies from 1960 to 2015, collected from The Movie Database (TMDb) and including all films details such as the production cost, the revenue generated, rating information, actors and directors, etc. This work also tries to find answers to the questions below:
-### Research questions
+### *Research questions*
 
 1- What kinds of properties are associated with  most and less successful movies?
 
@@ -49,7 +49,7 @@ You will need an installation of Python, plus the following libraries:
 I recommend installing Anaconda, which comes with all of the necessary packages, as well as IPython notebook.
  
  ## Conclusion 
- ### *What i learned*
+ ### *What I learned*
 * All the steps involved in a typical data analysis process;
 * Comfortable posing questions that can be answered with a given dataset and then answering those questions;
 * Investigate problems in a dataset and wrangle the data;
@@ -57,6 +57,6 @@ I recommend installing Anaconda, which comes with all of the necessary packages,
 * Use vectorized operations in NumPy and pandas to speed up  data analysis code;
 * More familiar with pandas' Series and DataFrame objects;
 * Use Matplotlib to produce plots showing your findings.
-### Evaluation
+### *Evaluation*
 My project was reviewed by a Udacity reviewer. All criteria found in the rubric must be meeting specifications for me to pass.
 
